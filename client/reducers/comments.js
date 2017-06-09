@@ -1,5 +1,9 @@
+function postComments(state = [], action) {
+	
+	return state
+}
+
 function comments(state = [], actions) {
-	console.log(state, actions)
 	return state
 }
 
